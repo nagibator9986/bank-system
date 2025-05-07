@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+stripe
+bcrypt
+Pillow
+face_recognition
+numpy
+twilio
